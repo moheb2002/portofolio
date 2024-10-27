@@ -8,7 +8,7 @@ const projectList = [
     id: 1,
     name: 'TechShop',
     image: techshop,
-    link: 'https://techshop-4zq0p2osh-mohebs-projects-b5e39622.vercel.app/',
+    link: 'https://techshop-mocha.vercel.app/',
   },
   {
     id: 2,
